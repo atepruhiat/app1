@@ -1,0 +1,6 @@
+{
+  "name": "Product Input App",
+  "description": "A simple application for inputting and managing product data including stock and pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
